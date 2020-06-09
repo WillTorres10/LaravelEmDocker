@@ -5,7 +5,7 @@ Esse repositório fornece o Docker Composer que permite execultar a Framework La
 ## Características
 - Versão do Laravel: 7.14.1;
 - Versão MariaDB: 10.5 (O docker-compose pega a mais recente disponível);
-- Versão Nginx: 1.19 O docker-compose pega a mais recente disponível);
+- Versão Nginx: 1.19 (O docker-compose pega a mais recente disponível);
 - Versão PHP: 7.2-fpm-alpine.
 
 ## Requisitos
@@ -18,8 +18,9 @@ Esse repositório fornece o Docker Composer que permite execultar a Framework La
 - src | Local do Projeto do Laravel.
 
 ## Como Executar
-Passo-a-passo para executar o projeto
-####1. Clonando o Repositório
+Passo-a-passo para executar o projeto.
+
+#### 1. Clonando o Repositório
 Copie o código abaixo e cole no terminal para clonar o repositório.
 
 `$ git clone https://github.com/WillTorres10/LaravelEmDocker.git`
